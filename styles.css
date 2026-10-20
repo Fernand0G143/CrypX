@@ -1,0 +1,25 @@
+@import url('https://googleapis.com');
+
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    justify-content: space-between;
+    padding: 7px;
+    font-size: 23px;
+}
+
+.titulo{
+    display: flex;
+    font-size: 40px;
+    font-weight: bold;
+    flex-direction: row;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: -60px;
+}
