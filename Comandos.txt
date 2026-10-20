@@ -1,7 +1,7 @@
 echo "# CrypX" >> README.md
 git init
 git add README.md
-git commit -m "primer componente"
+git commit -m "segundo componente"
 git branch -M main
 git remote add origin https://github.com/Fernand0G143/CrypX.git
 git push -u origin main

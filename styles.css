@@ -12,14 +12,33 @@ body{
     font-family: 'Poppins', sans-serif;
     justify-content: space-between;
     padding: 7px;
-    font-size: 23px;
+    font-size: 21px;
 }
 
 .titulo{
     display: flex;
-    font-size: 40px;
+    font-size: 64px;
     font-weight: bold;
     flex-direction: row;
     font-family: 'Poppins', sans-serif;
     margin-bottom: -60px;
+    margin-top: -50px;
+}
+
+.text{
+    display: flex;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.text:last-child{
+    margin-top: -10px;
+}
+
+img{
+    align-items: right;
+    width: 366.5px;
+    height: 366.5px;
+    object-fit: cover;
 }
